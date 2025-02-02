@@ -1,4 +1,4 @@
-// number pyramid 
+// character pyramid 
 
 #include <stdio.h>
 #include <conio.h>
@@ -15,7 +15,7 @@ int main(){
 			printf(" ");
 		}
 		
-		for(k=1; k<2*i-1; k++){
+		for(k=0; k<2*i-1; k++){
 	        printf("*");
 		}
 		

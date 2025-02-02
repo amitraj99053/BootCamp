@@ -1,3 +1,4 @@
+// number pyramid
 
 #include <stdio.h>
 #include <conio.h>
